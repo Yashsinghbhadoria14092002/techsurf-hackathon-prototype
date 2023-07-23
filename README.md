@@ -1,5 +1,7 @@
 React Content Generator App - README
 
+Github repository - https://github.com/Yashsinghbhadoria14092002/techsurf-hackathon-prototype
+
 This repository contains a simple React Content Generator app that uses the GPT API to generate content. The app is hosted on Netlify, and you can access it using the following link: https://64bc58135ffc1034366dc5ae--classy-taffy-0991f5.netlify.app/.
 
 Usage
